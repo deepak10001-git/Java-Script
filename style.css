@@ -1,0 +1,13 @@
+body{
+
+background-color: yellow;
+
+}
+
+table, th, td {
+            border: 1px solid black; /* Width, style, and color */
+            border-collapse: collapse; /* Prevents double borders */
+            padding: 10px;
+            text-align: left;
+        }
+
